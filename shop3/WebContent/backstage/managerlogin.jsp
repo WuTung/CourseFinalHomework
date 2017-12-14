@@ -89,7 +89,7 @@
 					<span>密&nbsp;&nbsp;&nbsp;码：</span>
 					<input type="password" name="pwd"> ${pwdError}<br><br>
 					<center>
-					    <a href="../front/index.jsp">用户登录</a>&nbsp;&nbsp;
+					    <a href="../front/index.jsp">←用户登录</a>&nbsp;&nbsp;
 				 		<input type="submit" value="登录">
 				 	</center>
 			    </form>
